@@ -1,2 +1,1 @@
-# num-vis
-C# stuff for numerical methods
+# ѕолезные шаблоны дл€ численных методов в C#
